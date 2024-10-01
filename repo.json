@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/plugins.json"
+      "https://raw.githubusercontent.com/rupanh123-phap/rupanh123-phap.github.io/refs/heads/main/plugins.json"
     ]
 }
